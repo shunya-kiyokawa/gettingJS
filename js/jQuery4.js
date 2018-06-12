@@ -9,9 +9,7 @@ function main() {
 // 初期化処理
 function initialization() {
     count = 1;
-    $('.gazou').click(function () {
-        $('.gazou').html("<img src='picture/1.jpg'>");
-    })
+    $('.gazou').html("<img src='picture/1.jpg'>");
 }
 
 // 画像がタッチされたらカウントしていき、画像を差し替える
