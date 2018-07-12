@@ -19,3 +19,11 @@ function change_gazou() {
         $('.gazou').html("<img src='picture/"+count+".jpg'>");
     })
 }
+/*
+function change_gazou() {
+    $('.gazou').click(function () {
+        count += 1;
+        $('.gazou').children('img').attr('src', 'picture/'+count+'.jpg');
+    })
+}
+*/
