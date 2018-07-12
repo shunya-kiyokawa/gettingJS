@@ -13,3 +13,7 @@
     * https://code.jquery.com/jquery-3.3.1.js
 * jQuery License (MIT)
     * https://jquery.org/license/
+* jquery.cookieを使用しています
+    * https://github.com/carhartl/jquery-cookie
+* jquery.cookie License (MIT)
+    * https://github.com/carhartl/jquery-cookie/blob/master/MIT-LICENSE.txt
